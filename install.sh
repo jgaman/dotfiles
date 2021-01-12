@@ -63,3 +63,4 @@ ln -s $PWD/SublimeLinter.sublime-settings $SUBL_PATH/Packages/User/SublimeLinter
 zsh ~/.zshrc
 
 echo "👌  Carry on with git setup!"
+export PATH=/home/jgaman/anaconda3/bin:$PATH
