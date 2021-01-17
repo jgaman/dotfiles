@@ -81,4 +81,4 @@ export PATH=/home/jgaman/anaconda3/bin:$PATH
 export PATH=/home/hustmck/.pyenv/bin:$PATH
 # eval "$(pyenv init -)"
 # eval "$(pyenv virtualenv-init -)"
-export BROWSER='/mnt/c/Program Files/Go/Ch/Application/chrome.exe'
+export BROWSER="C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Google Chrome.lnk"
